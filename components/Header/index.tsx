@@ -31,26 +31,26 @@ export default function Header() {
             Home
           </Link>
           <Link
-            href="/story"
+            href="https://discord.gg/vz5nd36Xsm"
             className="text-2xl text-white transition-all duration-500 mx-5"
           >
-            Story
+            Discord
           </Link>
           <Link
-            href="/#team"
+            href="https://bdisc.golf"
             scroll={true}
             className="scroll-smooth text-2xl text-white transition-all duration-500 mx-5"
           >
-            Team
+            BDISC
           </Link>
           <Link
-            href="/mint"
+            href="https://launchmynft.io/collections/F5iFyvKbtXhX8BgHyC9tGAfgDKMagVBuygwsSTcUwQAh/RD8O4h6s6auRYistrGri"
             className="text-2xl text-white transition-all duration-500 mx-5"
             style={{ scrollBehavior: "smooth" }}
           >
             Mint
           </Link>
-          <Link href="https://twitter.com/Red_Devils_Nft">
+          <Link href="https://twitter.com/bdiscgolfr">
             <TwitterIcon className="text-white" />
           </Link>
           {/* <Link

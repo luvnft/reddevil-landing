@@ -16,9 +16,9 @@ export default function Story() {
             className="flex flex-col items-center pl-[8.75%] h-auto lg:w-full"
           >
             <div className="flex flex-col md:pr-[8.75%]">
-              <h1 className="lg:text-[65px] lg:pt-[10%] lg:pb-[3.5%] md:text-[28px] md:pt-[10%] font-[900] font-[Rancho] tracking-widest text-indigo-800">
+              <h1 className="lg:text-[65px] lg:pt-[10%] lg:pb-[3.5%] md:text-[28px] md:pt-[10%] font-[900] font-[Rancho] tracking-widest text-indigo-600">
                 WTF is <br />
-                <span className="text-main text-green-700">BDISC Emote</span>
+                <span className="text-indigo-600 text-green-700">BDISC Emote</span>
               </h1>
               <h1 className="text-white font-bold text-3xl mt-5">
                 Disc Golf&apos;s #1 Meme: BDISC Emote

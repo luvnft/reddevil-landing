@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { motion } from "framer-motion";
-import TwitterIcon from '@mui/icons-material/Twitter'; // Ensure this line is included
+import TwitterIcon from '@mui/icons-material/Twitter';
+import Image from "next/image"; // Import the Image component
 
 export default function Landing() {
   return (
@@ -8,7 +9,7 @@ export default function Landing() {
       {/* Header Section */}
       <header className="mt-8 w-full backdrop-blur-sm bg-black/30 fixed font-[Rancho] tracking-widest z-10">
         <div className="flex items-center md:w-[80%] md:mx-auto p-4 justify-between">
-          <img src="/logo.png" className="w-16" alt="logo" />
+          <Image src="/logo.png" className="w-16" alt="logo" width={64} height={64} /> {/* Use Image here */}
           <nav className="items-center font-regular md:flex hidden">
             <Link href="/" className="text-2xl text-white transition-all duration-500 mx-5 font-bold">Home</Link>
             <Link href="https://discord.gg/vz5nd36Xsm" className="text-2xl text-white transition-all duration-500 mx-5">Discord</Link>
@@ -61,10 +62,12 @@ export default function Landing() {
               transition={{ delay: 0.2 }}
             >
               <div className="container">
-                <img
+                <Image
                   src="/images/44.jpg"
                   alt="Logo"
                   className="border-4 border-indigo-500/100 left-0 rounded-full"
+                  width={300}
+                  height={300}
                 />
               </div>
             </motion.div>
@@ -74,4 +77,3 @@ export default function Landing() {
     </div>
   );
 }
-

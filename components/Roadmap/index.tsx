@@ -22,10 +22,10 @@ export default function Roadmap() {
               </h1>
             </div>
             <div className="md:p-10 flex-col space-y-10 justify-items-stretch lg:flex border-l-4">
-              <p className="text-green-200 font-bold text-2xl">
+              <p className="text-green-666 font-bold text-2xl">
                 🏗️ Community
               </p>
-              <p className="text-green-200 font-bold text-xl">
+              <p className="text-green-666 font-bold text-xl">
                 We tee-off with community building, launching a Discord server,
                 and promoting it to reach 10k members by 2025.
               </p>
@@ -33,10 +33,10 @@ export default function Roadmap() {
           </div>
           <div className="grid grid-cols-2">
             <div className="md:p-10 flex-col space-y-10 grid justify-items-stretch lg:flex  ">
-              <p className="text-green-200 font-bold text-2xl ">
+              <p className="text-green-666 font-bold text-2xl ">
                  ♻️ BDISC Discs
               </p>
-              <p className="text-green-200 font-bold text-xl ">
+              <p className="text-green-666 font-bold text-xl ">
                 BDISC cares about nature and recycled Emote themed discs will be
                 for sale in our upcoming e-commerce marketplace.
               </p>
@@ -54,18 +54,18 @@ export default function Roadmap() {
               </h1>
             </div>
             <div className="md:p-10 flex-col space-y-10  grid justify-items-stretch lg:flex border-l-4 ">
-              <p className="text-green-200 font-bold text-2xl ">👕 BDISC Merch</p>
-              <p className="text-green-200 font-bold text-xl ">
-                Once the Project sells out, Birdie Opportunity 3 AKA Merch will launch.
+              <p className="text-green-666 font-bold text-2xl ">👕 BDISC Merch</p>
+              <p className="text-green-666 font-bold text-xl ">
+                Once the BDISC Emote sells out, Birdie Opportunity 3 AKA Merch will launch.
               </p>
             </div>
           </div>
           <div className="grid grid-cols-2">
             <div className="md:p-10 flex-col space-y-10 grid justify-items-stretch lg:flex ">
-              <p className="text-green-600  font-bold text-2xl ">
+              <p className="text-green-666  font-bold text-2xl ">
                 💵 Challenges
               </p>
-              <p className="text-green-600  font-bold text-xl">
+              <p className="text-green-666  font-bold text-xl">
                 Win $DISC tokens airdropped to our verified members Solana
                 wallet account for winning social challenges on TikTok that
                 include a branded AR effect trophy. BDISC Emote Legendary and
@@ -85,10 +85,10 @@ export default function Roadmap() {
               </h1>
             </div>
             <div className="md:p-10 flex-col space-y-10 grid justify-items-stretch lg:flex border-l-4 ">
-              <p className="text-green-600 font-bold text-2xl ">
+              <p className="text-green-666 font-bold text-2xl ">
                 🥳 Events
               </p>
-              <p className="text-green-600 font-bold text-xl ">
+              <p className="text-green-666 font-bold text-xl ">
                 Chain Link 5 will be focused on Live stream events and in-person
                 meet ups at local parks and golf courses across the United States.
               </p>

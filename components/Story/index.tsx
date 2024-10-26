@@ -21,7 +21,7 @@ export default function Story() {
                 <span className="text-main text-green-700">BDISC Emote</span>
               </h1>
               <h1 className="text-white font-bold text-3xl mt-5">
-                Disc Golf's #1 Meme: BDISC Emotes
+                Disc Golf&apos;s #1 Meme: BDISC Emotes
               </h1>
               <div className="pb-[7.1%]">
                 <h1 className="text-green-600 font-bold text-xl">
@@ -29,7 +29,7 @@ export default function Story() {
                 </h1>
                 <br />
                 <h1 className="text-green-600 font-bold text-xl">
-                  Whether you're a new player or a seasoned pro, these collectible emotes celebrate disc golf culture and connect players like never before. BDISC Emotes aren't just digital assets – they're a badge of honor for the BDISC community!
+                  Whether you&apos;re a new player or a seasoned pro, these collectible emotes celebrate disc golf culture and connect players like never before. BDISC Emotes aren&apos;t just digital assets – they&apos;re a badge of honor for the BDISC community!
                 </h1>
               </div>
             </div>
@@ -79,4 +79,3 @@ export default function Story() {
     </div>
   );
 }
-

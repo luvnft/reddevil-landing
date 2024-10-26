@@ -23,51 +23,47 @@ export default function Roadmap() {
             </div>
             <div className="md:p-10 flex-col space-y-10 justify-items-stretch lg:flex border-l-4">
               <p className="text-green-200 font-bold text-2xl">
-                🏗️ Community Build-UP 🏗️
+                🏗️ Community
               </p>
               <p className="text-green-200 font-bold text-xl">
-                At first we will start with the community building, which
-                includes Launching of our discord server, promotion of our
-                project, Our target is to reach at least 10k discord members
-                before 2025.
+                We tee-off with community building, launching a Discord server,
+                and promoting it to reach 10k members by 2025.
               </p>
             </div>
           </div>
           <div className="grid grid-cols-2">
             <div className="md:p-10 flex-col space-y-10 grid justify-items-stretch lg:flex  ">
               <p className="text-green-200 font-bold text-2xl ">
-                 ♻️ Recycled BDISC Discs ♻️
+                 ♻️ BDISC Discs
               </p>
               <p className="text-green-200 font-bold text-xl ">
-                Once we reach 10k members on our discord, then it is the time to
-                launch our first collection: Red Devils. A set of 1000 NFT will
-                be launch on Red Devils Website on solana network.
+                BDISC cares about nature and recycled Emote themed discs will be
+                for sale in our upcoming e-commerce marketplace.
               </p>
             </div>
             <div className="border-l-4">
               <h1 className="md:p-10 text-white font-bold text-3xl mt-5 font-[Rancho] tracking-widest">
-                 Fairway Goals 2️⃣
+                 Fairway 2️⃣
               </h1>
             </div>
           </div>
           <div className="grid grid-cols-2">
             <div>
               <h1 className="text-white font-bold text-3xl mt-5 font-[Rancho] tracking-widest">
-                 Birdie Opportunity 3️⃣
+                 Birdie 3️⃣
               </h1>
             </div>
             <div className="md:p-10 flex-col space-y-10  grid justify-items-stretch lg:flex border-l-4 ">
-              <p className="text-green-200 font-bold text-2xl ">👕 BDISC Emote Merch 👕</p>
+              <p className="text-green-200 font-bold text-2xl ">👕 BDISC Merch</p>
               <p className="text-green-200 font-bold text-xl ">
                 Once the Project sells out, Birdie Opportunity 3 AKA Merch will launch.
-                Holders will receive free merch matching their BDISC Emote.
               </p>
             </div>
           </div>
           <div className="grid grid-cols-2">
             <div className="md:p-10 flex-col space-y-10 grid justify-items-stretch lg:flex ">
               <p className="text-green-600  font-bold text-2xl ">
-                💵 Challenges 💵
+                💵 Challenges
               </p>
               <p className="text-green-600  font-bold text-xl">
                 Win $DISC tokens airdropped to our verified members Solana
@@ -78,7 +74,7 @@ export default function Roadmap() {
             </div>
             <div className="md:p-10 grid justify-items-stretch lg:flex border-l-4 ">
               <h1 className="md:p-10 text-white font-bold text-3xl mt-5 font-[Rancho] tracking-widest">
-                 Ace Goals 4️⃣
+                 Ace 4️⃣
               </h1>
             </div>
           </div>
@@ -90,13 +86,11 @@ export default function Roadmap() {
             </div>
             <div className="md:p-10 flex-col space-y-10 grid justify-items-stretch lg:flex border-l-4 ">
               <p className="text-green-600 font-bold text-2xl ">
-                🥳 Livestream Events 🥳
+                🥳 Events
               </p>
               <p className="text-green-600 font-bold text-xl ">
                 Chain Link 5 will be focused on Live stream events and in-person
                 meet ups at local parks and golf courses across the United States.
-                Fun first is the motto and the GTM strategy to make BDISC the #1
-                social media disc golf league starting with the ACE challenge.
               </p>
             </div>
           </div>

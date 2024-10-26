@@ -147,7 +147,7 @@ const Team = () => {
                 href="https://discord.gg/vz5nd36Xsm"
                 className="text-[18px] border-none text-center text-white w-[34.6%] h-[71.89px] rounded-[12px] bg-green-700 transition-all duration-500 font-bold py-5 font-[Rancho] tracking-widest"
               >
-                BDISC Discord
+                Discord
               </Link>
               <JoinUs open={show} closeJoinUs={closeJoinUs}></JoinUs>
             </div>

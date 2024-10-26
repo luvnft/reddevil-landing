@@ -67,13 +67,13 @@ export default function Roadmap() {
           <div className="grid grid-cols-2">
             <div className="md:p-10 flex-col space-y-10 grid justify-items-stretch lg:flex ">
               <p className="text-green-600  font-bold text-2xl ">
-                💵 Staking and Traits Upgrade 💵
+                💵 Challenges 💵
               </p>
               <p className="text-green-600  font-bold text-xl">
-                Staking website will be launched. Launch of $Devil tokens, by
-                staking of your Devils you will earn $Devil token which can
-                later be converted into $Solana. Raffles, art upgrades through
-                burning $Devil tokens.
+                Win $DISC tokens airdropped to our verified members Solana
+                wallet account for winning social challenges on TikTok that
+                include a branded AR effect trophy. BDISC Emote Legendary and
+                Super-Rare shareholders vote on the challenges and rewards.
               </p>
             </div>
             <div className="md:p-10 grid justify-items-stretch lg:flex border-l-4 ">

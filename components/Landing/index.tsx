@@ -43,8 +43,7 @@ export default function Landing() {
                 playful collection of 1,111 disc-shaped emote NFTs that capture
                 the thrill and emotion of the disc golf experience! Each emote
                 is uniquely crafted to resemble an expressive emoji face on a disc
-                golf-inspired shape, featuring an array of traits and themes that
-                range from lighthearted to ultra-rare collectibles.
+                golf-inspired shape.
               </div>
               <Link
                 href="https://launchmynft.io/collections/F5iFyvKbtXhX8BgHyC9tGAfgDKMagVBuygwsSTcUwQAh/RD8O4h6s6auRYistrGri"

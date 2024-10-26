@@ -125,10 +125,10 @@ const Team = () => {
           <div className="lg:flex flex-row items-center w-[100%]  justify-between overflow-x-hidden pb-12 ">
             <div className=" lg:w-[59%] h-[100%] md:w-full md:pb-12 pr-[8.75%] pb-12">
               <div className="text-[46px] h-1/2 text-white pt-[30px] pl-[8.75%] font-[Rancho] tracking-widest">
-                Take a Shot: Blind Mint Your BDISC Emotes!
+                Take a Shot: Blind Mint Your BDISC Emote!
               </div>
               <div className="text-[20px] h-1/2 text-white pt-[20px] pl-[8.75%]">
-                BDISC Emotes empower disc golf players by providing them with
+                BDISC Emote empower disc golf players by providing them with
                 a unique stake in the company through Solana-based, tradable
                 Emote meme stocks. When you mint a BDISC Emote, you enter a game
                 of chance with exciting odds: Legendary Emotes have a 5% chance,
@@ -136,7 +136,7 @@ const Team = () => {
                 common variant, Common Emotes, boasts a 70% likelihood. Each Emote
                 you hold gives you the opportunity to connect with other players
                 in the BDISC community, enhancing your chances to unlock shareholder
-                voting power and influence the future of BDISC Emotes. Join the BDISC
+                voting power and influence the future of BDISC Emote. Join the BDISC
                 Discord today to find fellow Emote holders and make your voice heard
                 in shaping the next chapter of disc golf!
               </div>

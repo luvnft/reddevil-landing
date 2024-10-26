@@ -21,15 +21,15 @@ export default function Story() {
                 <span className="text-main text-green-700">BDISC Emote</span>
               </h1>
               <h1 className="text-white font-bold text-3xl mt-5">
-                Disc Golf&apos;s #1 Meme: BDISC Emotes
+                Disc Golf&apos;s #1 Meme: BDISC Emote
               </h1>
               <div className="pb-[7.1%]">
                 <h1 className="text-green-600 font-bold text-xl">
-                  BDISC Emotes are the ultimate collectible and tradable NFTs for disc golfers. As the #1 meme-inspired disc NFT, each Emote brings iconic emoji-style expressions to the BDISC community. Trade and share them in the BDISC Discord, where exclusive holders gain access to upcoming merch like BDISC Emote recycled discs, apparel, and more!
+                  BDISC Emote is the ultimate collectible and tradable NFTs for disc golfers. As the #1 meme-inspired disc NFT, each Emote brings iconic emoji-style expressions to the BDISC community. Trade and share them in the BDISC Discord, where exclusive holders gain access to upcoming merch like BDISC Emote recycled discs, apparel, and more!
                 </h1>
                 <br />
                 <h1 className="text-green-600 font-bold text-xl">
-                  Whether you&apos;re a new player or a seasoned pro, these collectible emotes celebrate disc golf culture and connect players like never before. BDISC Emotes aren&apos;t just digital assets – they&apos;re a badge of honor for the BDISC community!
+                  Whether you&apos;re a new player or a seasoned pro, these collectible emotes celebrate disc golf culture and connect players like never before. BDISC Emote is&apos;nt just a digital asset – they&apos;re a badge of honor for the BDISC community!
                 </h1>
               </div>
             </div>

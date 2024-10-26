@@ -35,10 +35,10 @@ export default function Landing() {
           >
             <div className="flex flex-col md:pr-[8.75%]">
               <h1 className="lg:text-[75px] md:text-[32px] lg:pt-[10%] lg:pb-[3.5%] md:pt-[10%] md:font-[900] font-[Rancho] tracking-widest text-white drop-shadow-lg">
-                <span className="text-green-500">BDISC EMOTES</span>
+                <span className="text-green-500">BDISC EMOTE</span>
               </h1>
               <div className="text-[26px] pb-[7.1%] text-white font-black drop-shadow-lg">
-                Introducing BDisc Emotes Collectibles on Solana – a vibrant,
+                Introducing BDisc Emote Collectibles on Solana – a vibrant,
                 playful collection of 1,111 disc-shaped emote NFTs that capture
                 the thrill and emotion of the disc golf experience! Each emote
                 is uniquely crafted to resemble an expressive emoji face on a disc

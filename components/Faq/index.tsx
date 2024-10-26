@@ -43,7 +43,7 @@ export default function Faq() {
             <AccordionDetails>
               <p className="font-[Rancho] tracking-widest text-green-900 font-bold text-xl">
                 You need to join our BDISC Discord server. But note that millions of
-                members are fighting to get access to BDISC Emotes. Hurry up!
+                members are fighting to get access to BDISC Emote. Hurry up!
               </p>
             </AccordionDetails>
           </Accordion>
@@ -126,7 +126,7 @@ export default function Faq() {
         </div>
       </div>
       <p className="my-4 text-center text-md font-normal leading-5 font-[Rancho] tracking-widest">
-        Copyright 2023, green BDISC Emotes
+        Copyright 2023, green BDISC Emote
       </p>
     </div>
   );

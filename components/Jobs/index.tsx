@@ -591,7 +591,7 @@ export default function Jobs() {
         className="mt-11 grid justify-items-center "
       >
         <button className=" w-48 h-16 bg-violet-700 rounded-lg text-white text-lg font-bold">
-          See All
+          See More
         </button>
       </motion.div>
     </div>
